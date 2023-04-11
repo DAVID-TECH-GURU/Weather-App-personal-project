@@ -1,8 +1,8 @@
-#Weather App
+# Weather App
 
 This is a Weather App that allows the user to search for weather information of a particular location or use their device's geolocation to fetch weather information. The app displays the location, weather description, temperature, and humidity.
 
-#The basic setup
+# The basic setup
 To get started with our Weather App, you need to open the index.html file in a web browser. The app requires an internet connection to function properly. Upon launching the app, you will see a video playing in the background, which sets the mood for the app.
 
 Input Section
@@ -36,21 +36,21 @@ JavaScript
 The app uses JavaScript code located in index.js to fetch weather information from an external API and update the app's interface accordingly. You can modify this code to use a different API or add more functionality to the app.
 
 
-#How to use the Weather App
+# How to use the Weather App
 Enter the name of the location in the search bar and press Enter to get the weather information of that location.
 Click the "Get Device Location" button to get the weather information of your current location.
 
-#Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
 
-#Features
+# Features
 Search for the weather information of any location
 Get the weather information of your current location using geolocation
 Displays location, weather description, temperature, and humidity.
 
-#Credits
+# Credits
 This Weather App was created by [DAVID WACHIRA MAINA] and utilizes the OpenWeatherMap API to retrieve weather data.
 
 MIT License
